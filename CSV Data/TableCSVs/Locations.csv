@@ -1,0 +1,93 @@
+LocationID,BuildingName,BuildingDescription,RoomNumber,CampusID
+1,,,,3
+2,1100BO,1100 Boundary Street,104,3
+3,1100BO,1100 Boundary Street,113,3
+4,2WEB,Online,1,3
+5,365R,Sun and Moon Martial Arts Studio,1,2
+6,ARTS,Art Studio,101,3
+7,BEAUDO,Schools in Beaufort,1,3
+8,CFA,Center for the Arts,100,3
+9,CFA,Center for the Arts,101,3
+10,CFA,Center for the Arts,102,3
+11,CFA,Center for the Arts,103,3
+12,CFA,Center for the Arts,113,3
+13,CFA,Center for the Arts,116,3
+14,CFA,Center for the Arts,118,3
+15,CFA,Center for the Arts,201,3
+16,CFA,Center for the Arts,202,3
+17,CFA,Center for the Arts,203,3
+18,CFA,Center for the Arts,204,3
+19,CFA,Center for the Arts,206,3
+20,CLIN2,Clinical Hospital,1,3
+21,CMPCTR,Campus Center,105,2
+22,CMPCTR,Campus Center,113,2
+23,CMPCTR,Campus Center,148,2
+24,ETVLC,ETV Lowcountry,1,3
+25,GRAY,Grayson House,203,3
+26,HARG,Hargray Building,,2
+27,HARG,Hargray Building,156,2
+28,HARG,Hargray Building,158,2
+29,HARG,Hargray Building,159,2
+30,HARG,Hargray Building,160,2
+31,HARG,Hargray Building,162,2
+32,HARG,Hargray Building,204,2
+33,HARG,Hargray Building,260,2
+34,HARG,Hargray Building,270,2
+35,HARG,Hargray Building,271,2
+36,HARG,Hargray Building,274,2
+37,HARG,Hargray Building,275,2
+38,HARG,Hargray Building,276,2
+39,HARG,Hargray Building,277,2
+40,HARG,Hargray Building,278,2
+41,HHHC,Hilton Head Hospitality Center,103,1
+42,HHHC,Hilton Head Hospitality Center,104,1
+43,HHHC,Hilton Head Hospitality Center,114,1
+44,HHHC,Hilton Head Hospitality Center,115,1
+45,HHHC,Hilton Head Hospitality Center,202,1
+46,HHHC,Hilton Head Hospitality Center,204,1
+47,HHHC,Hilton Head Hospitality Center,207,1
+48,HHHC,Hilton Head Hospitality Center,213,1
+49,HHHC,Hilton Head Hospitality Center,214,1
+50,LIBR2,Library Building,144,2
+51,LIBR2,Library Building,147,2
+52,LIBR2,Library Building,219,2
+53,LIBR2,Library Building,237,2
+54,LIBR2,Library Building,238,2
+55,LIBR2,Library Building,241,2
+56,LIBR2,Library Building,243,2
+57,LIBR2,Library Building,267,2
+58,MSCIE,Marine Science Building,101,3
+59,MSCIE,Marine Science Building,102,3
+60,MSCIE,Marine Science Building,201,3
+61,NWCSTL,New Castle Building,1,3
+62,OLDFPL,Old Field Plantation,1,2
+63,RECCTR,Recreation Center,1,2
+64,RHP,Tennis Courts,1,2
+65,S300,Station 300,1,2
+66,SAND,Sandstone Building,111,3
+67,SAND,Sandstone Building,124,3
+68,SCITEC,Science & Technology Building,114,2
+69,SCITEC,Science & Technology Building,118,2
+70,SCITEC,Science & Technology Building,122,2
+71,SCITEC,Science & Technology Building,123,2
+72,SCITEC,Science & Technology Building,132,2
+73,SCITEC,Science & Technology Building,136,2
+74,SCITEC,Science & Technology Building,205,2
+75,SCITEC,Science & Technology Building,222,2
+76,SCITEC,Science & Technology Building,223,2
+77,SCITEC,Science & Technology Building,231,2
+78,SCITEC,Science & Technology Building,260,2
+79,SCITEC,Science & Technology Building,261,2
+80,SCITEC,Science & Technology Building,263,2
+81,SIC,Sea Islands Center,1,3
+82,VAD,Visual Arts & Design Building,112,3
+83,VAD,Visual Arts & Design Building,123,3
+84,VAD,Visual Arts & Design Building,200,3
+85,WALTM,USC Salkehatchie Walterboro,120,4
+86,WALTM,USC Salkehatchie Walterboro,206,4
+87,WALTM,USC Salkehatchie Walterboro,213,4
+88,WALTM,USC Salkehatchie Walterboro,214,4
+89,WALTSN,USC Salkehatchie Clinical Building,119,4
+90,WALTSN,USC Salkehatchie Clinical Building,120,4
+91,WEB,Online,,3
+92,WEB2,Online,,3

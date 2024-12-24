@@ -1,0 +1,489 @@
+ProfessorID,First_Name,Middle_Name,Last_Name,Email,Phone
+1,NULL,NULL,NULL,NULL,
+2,Amy , E.,Abbott,amye.abbott@uscb.edu,110-135-7734
+3,Agnieszka , Z.,Abraham,agnieszkaz.abraham@uscb.edu,241-381-3388
+4,Anton,NULL,Abraham,antonabraham@uscb.edu,631-735-1722
+5,Ann-Marie,NULL,Adams,ann-marieadams@uscb.edu,581-312-4464
+6,Kishwar,NULL,Ahmed,kishwarahmed@uscb.edu,497-608-0170
+7,Debra , L.,Albanese,debral.albanese@uscb.edu,686-629-7495
+8,Beda , E.,Alvarez,bedae.alvarez@uscb.edu,680-913-2216
+9,Eliot , J.,Angell,eliotj.angell@uscb.edu,182-263-7589
+10,Blanca,NULL,Aranda,blancaaranda@uscb.edu,303-262-0795
+11,Andrea , A.,Banbury,andreaa.banbury@uscb.edu,358-495-7079
+12,Janae,NULL,Barberio,janaebarberio@uscb.edu,895-953-9314
+13,Emma , M.,Barnes,emmam.barnes@uscb.edu,547-793-9285
+14,Michelle , L.,Barnes,michellel.barnes@uscb.edu,957-998-1572
+15,Mollie , E.,Barnes,molliee.barnes@uscb.edu,162-541-0057
+16,Andrietta , W.,Barnett,andriettaw.barnett@uscb.edu,379-705-4904
+17,Margaret , V.,Barry,margaretv.barry@uscb.edu,642-205-4009
+18,Sean , M.,Barth,seanm.barth@uscb.edu,656-695-3388
+19,Diane , H.,Bartlett,dianeh.bartlett@uscb.edu,260-997-2315
+20,Charles , R.,Barton,charlesr.barton@uscb.edu,768-753-6817
+21,Alison , W.,Barton,alisonw.barton@uscb.edu,990-903-3283
+22,Rachel , A.,Beach,rachela.beach@uscb.edu,802-295-4509
+23,Christina,NULL,Beall,christinabeall@uscb.edu,400-810-6196
+24,Fred , M.,Beasley,fredm.beasley@uscb.edu,396-441-6119
+25,Howard , S.,Becker,howards.becker@uscb.edu,348-520-7826
+26,Colleen,NULL,Beck-Ungvarsky,colleenbeck-ungvarsky@uscb.edu,589-100-7690
+27,Ellen , E.,Belesky,ellene.belesky@uscb.edu,405-659-7390
+28,Camoosha , V.,Bell,camooshav.bell@uscb.edu,270-572-2202
+29,Kayla , C.,Berrios,kaylac.berrios@uscb.edu,219-278-7554
+30,Laura , M.,Bessent,lauram.bessent@uscb.edu,485-653-6859
+31,Susan , E.,Beverung,susane.beverung@uscb.edu,944-767-1335
+32,Melba , M.,Biddell,melbam.biddell@uscb.edu,776-280-7753
+33,Whitney,NULL,Bishop,whitneybishop@uscb.edu,196-800-0568
+34,Marie , A.,Bliemeister,mariea.bliemeister@uscb.edu,604-407-9236
+35,Brad , L.,Bloom,bradl.bloom@uscb.edu,277-248-8318
+36,Christopher,NULL,Bond,christopherbond@uscb.edu,483-392-6640
+37,Kelli,NULL,Boniecki,kelliboniecki@uscb.edu,222-507-3360
+38,Andrew , J.,Borders,andrewj.borders@uscb.edu,943-229-9428
+39,Stephen , A.,Borgianini,stephena.borgianini@uscb.edu,582-836-8756
+40,Brett , A.,Borton,bretta.borton@uscb.edu,693-111-7239
+41,Kelly , A.,Bouthillet,kellya.bouthillet@uscb.edu,761-573-3406
+42,John , R.,Bowen,johnr.bowen@uscb.edu,149-123-3195
+43,William , K.,Bowers,williamk.bowers@uscb.edu,970-848-0602
+44,William , P.,Boyle,williamp.boyle@uscb.edu,758-904-1207
+45,Heather , K.,Brabham,heatherk.brabham@uscb.edu,276-120-3442
+46,Benjamin,NULL,Brame,benjaminbrame@uscb.edu,528-141-8035
+47,Kenneth , C.,Brandt,kennethc.brandt@uscb.edu,320-335-3844
+48,Deanna , R.,Bredwell,deannar.bredwell@uscb.edu,307-614-3147
+49,Ellen , M.,Brock,ellenm.brock@uscb.edu,859-833-9555
+50,Djuanna , M.,Brockington,djuannam.brockington@uscb.edu,539-329-5586
+51,Gary , T.,Brooks,garyt.brooks@uscb.edu,424-743-2666
+52,Emilee,NULL,Brown,emileebrown@uscb.edu,664-663-5529
+53,Candace , L.,Bruder,candacel.bruder@uscb.edu,710-802-9259
+54,Mercer , R.,Brugler,mercerr.brugler@uscb.edu,395-373-7115
+55,Jessica , W.,Bryan,jessicaw.bryan@uscb.edu,220-644-0562
+56,Deborah , A.,Buldo,deboraha.buldo@uscb.edu,942-510-1378
+57,Laura , B.,Burcin,laurab.burcin@uscb.edu,449-776-8776
+58,Teresa , S.,Burckhalter,teresas.burckhalter@uscb.edu,395-807-6441
+59,Nikita , M.,Burks-Hale,nikitam.burks-hale@uscb.edu,894-316-8812
+60,Rachel , L.,Burns,rachell.burns@uscb.edu,656-899-8391
+61,Eric , V.,Burns,ericv.burns@uscb.edu,614-733-1978
+62,Dean , E.,Bushey,deane.bushey@uscb.edu,539-359-4763
+63,Tyler,NULL,Butcher,tylerbutcher@uscb.edu,734-563-8304
+64,Clinton , J.,Butler,clintonj.butler@uscb.edu,550-230-7495
+65,Chesanny,NULL,Butler,chesannybutler@uscb.edu,485-366-1052
+66,Robin , T.,Byerly,robint.byerly@uscb.edu,311-873-8284
+67,Elizabeth , A.,Byrd,elizabetha.byrd@uscb.edu,979-110-8363
+68,Jill , E.,Caldwell,jille.caldwell@uscb.edu,912-169-0646
+69,Charles , L.,Calvert,charlesl.calvert@uscb.edu,638-408-4398
+70,Brian , A.,Canada,briana.canada@uscb.edu,603-477-6894
+71,John , B.,Cannon,johnb.cannon@uscb.edu,859-732-1404
+72,Rebecca , K.,Capello,rebeccak.capello@uscb.edu,359-108-7373
+73,Lynn,NULL,Capozzoli,lynncapozzoli@uscb.edu,355-275-2464
+74,Patrick , J.,Carberry,patrickj.carberry@uscb.edu,528-374-9066
+75,Matthew , R.,Carrington,matthewr.carrington@uscb.edu,424-288-1946
+76,Teresa , M.,Carroll,teresam.carroll@uscb.edu,547-438-2970
+77,Serkan,NULL,Catma,serkancatma@uscb.edu,465-395-4575
+78,Kimberly , K.,Cavanagh,kimberlyk.cavanagh@uscb.edu,700-920-8523
+79,Kenan,NULL,Caymaz,kenancaymaz@uscb.edu,266-125-9224
+80,Tracy,NULL,Cheatham,tracycheatham@uscb.edu,524-812-2480
+81,John,NULL,Chiacchiero,johnchiacchiero@uscb.edu,176-489-9232
+82,Jena , L.,Chojnowski,jenal.chojnowski@uscb.edu,993-283-9247
+83,Tyler,NULL,Cieplowski,tylercieplowski@uscb.edu,318-435-3526
+84,Barbara , H.,Cifaldi,barbarah.cifaldi@uscb.edu,891-779-4019
+85,Lisa , V.,Ciresi,lisav.ciresi@uscb.edu,480-341-4378
+86,Joseph , S.,Coccia,josephs.coccia@uscb.edu,649-778-6158
+87,Deborah , J.,Cohan,deborahj.cohan@uscb.edu,467-996-7770
+88,Leslie , R.,Collins,leslier.collins@uscb.edu,125-864-2703
+89,Paul , H.,Comitz,paulh.comitz@uscb.edu,324-709-3196
+90,April , R.,Cone,aprilr.cone@uscb.edu,704-717-2741
+91,Blair , E.,Cooke,blaire.cooke@uscb.edu,614-744-4517
+92,Angela,NULL,Cooke-Jackson,angelacooke-jackson@uscb.edu,534-684-7559
+93,Kelly,NULL,Cooley,kellycooley@uscb.edu,474-198-5352
+94,Dafina , M.,Cooper Ward,dafinam.cooper ward@uscb.edu,378-410-5124
+95,Allan , J.,Costa,allanj.costa@uscb.edu,604-200-7749
+96,Laura , D.,Councell,laurad.councell@uscb.edu,311-744-0339
+97,Melody , P.,Crews,melodyp.crews@uscb.edu,437-349-6330
+98,Virginia , G.,Crews,virginiag.crews@uscb.edu,381-114-5047
+99,Brian , J.,Cudahy,brianj.cudahy@uscb.edu,819-799-2098
+100,Brittany , S.,Culbertson,brittanys.culbertson@uscb.edu,992-657-6271
+101,Joseph , P.,Cunningham,josephp.cunningham@uscb.edu,841-925-5874
+102,Tara , M.,Dakolios,taram.dakolios@uscb.edu,328-140-4630
+103,Jennifer,NULL,D'Antonio,jenniferd'antonio@uscb.edu,989-656-3803
+104,Edward , L.,D'Antonio,edwardl.d'antonio@uscb.edu,917-642-9652
+105,Mary,NULL,Darden,marydarden@uscb.edu,247-266-1431
+106,Crystal,NULL,Daugherty,crystaldaugherty@uscb.edu,177-347-1174
+107,Alicia,NULL,Davis,aliciadavis@uscb.edu,185-895-4405
+108,Sarah,NULL,Davis,sarahdavis@uscb.edu,993-363-6369
+109,Joan , M.,Davis-Wright,joanm.davis-wright@uscb.edu,875-742-2389
+110,Audrey , R.,Dawson,audreyr.dawson@uscb.edu,571-771-9290
+111,William,NULL,Deaton,williamdeaton@uscb.edu,756-134-7810
+112,Swati,NULL,Debroy,swatidebroy@uscb.edu,800-503-4348
+113,Mason , S.,Deinema,masons.deinema@uscb.edu,827-207-3130
+114,Lindsay , M.,Delaney,lindsaym.delaney@uscb.edu,499-915-9858
+115,Emily , H.,Deming,emilyh.deming@uscb.edu,379-560-6000
+116,Firuz,NULL,Demir,firuzdemir@uscb.edu,614-561-7493
+117,Ian , K.,Deneeve,iank.deneeve@uscb.edu,393-678-9847
+118,Bryan,NULL,Dennis,bryandennis@uscb.edu,810-168-7709
+119,Doriann , H.,Dennison,doriannh.dennison@uscb.edu,163-170-5475
+120,Matthew , J.,Dickman,matthewj.dickman@uscb.edu,450-857-6393
+121,Flowrence , Nikitha,Dirisipamu,flowrencenikithadirisipamu@uscb.edu,572-363-4108
+122,Kevin , C.,Dopf,kevinc.dopf@uscb.edu,716-713-9474
+123,James , E.,Dotherow,jamese.dotherow@uscb.edu,518-222-2658
+124,David , A.,Downey,davida.downey@uscb.edu,241-624-5962
+125,Travis , E.,Draud,travise.draud@uscb.edu,351-702-5943
+126,Terry , N.,Drawdy,terryn.drawdy@uscb.edu,470-354-0030
+127,Kimberly,NULL,Dudas,kimberlydudas@uscb.edu,387-305-7679
+128,James , A.,Duffy,jamesa.duffy@uscb.edu,963-409-0028
+129,Morgan , P.,Edmunds,morganp.edmunds@uscb.edu,588-654-3007
+130,Jennifer,NULL,Edwards,jenniferedwards@uscb.edu,753-807-0174
+131,Hadis,NULL,Elyaderani,hadiselyaderani@uscb.edu,400-428-6536
+132,Leon , M.,Ember,leonm.ember@uscb.edu,674-866-2587
+133,Ronald,NULL,Erdei,ronalderdei@uscb.edu,734-192-2708
+134,Christine , M.,Estell,christinem.estell@uscb.edu,539-449-6797
+135,Shannel,NULL,Ezedi,shannelezedi@uscb.edu,572-573-9484
+136,Nanette , J.,Faciszewski,nanettej.faciszewski@uscb.edu,982-158-6958
+137,Jennifer , L.,Fairchild,jenniferl.fairchild@uscb.edu,762-345-9077
+138,Angelo , A.,Falgiani,angeloa.falgiani@uscb.edu,454-140-5858
+139,Ted , J.,Falkner,tedj.falkner@uscb.edu,876-639-0065
+140,Patricia , A.,Fall,patriciaa.fall@uscb.edu,834-446-8842
+141,Carmen , B.,Farrell,carmenb.farrell@uscb.edu,636-589-1531
+142,Amiri,NULL,Farris,amirifarris@uscb.edu,954-127-5664
+143,Gia,NULL,Fazio,giafazio@uscb.edu,264-908-3282
+144,Ashley , N.,Ferguson,ashleyn.ferguson@uscb.edu,629-110-1587
+145,Linda , A.,Ferguson,lindaa.ferguson@uscb.edu,256-841-5551
+146,Cathleen , P.,Ferrick,cathleenp.ferrick@uscb.edu,614-279-1670
+147,Carey , J.,Fitzgerald,careyj.fitzgerald@uscb.edu,750-382-3723
+148,Wesla , L.,Fletcher,weslal.fletcher@uscb.edu,108-892-2502
+149,Cynthia,NULL,Flowers,cynthiaflowers@uscb.edu,806-116-4864
+150,Michael , E.,Foss,michaele.foss@uscb.edu,758-311-0691
+151,Thomas , B.,Fryer,thomasb.fryer@uscb.edu,522-196-1059
+152,Davide,NULL,Fusi,davidefusi@uscb.edu,963-654-3876
+153,Bernard , T.,Gaither,bernardt.gaither@uscb.edu,787-262-1233
+154,Kimberly , A.,Galloway,kimberlya.galloway@uscb.edu,899-292-1328
+155,Charles , L.,Garbarino,charlesl.garbarino@uscb.edu,651-888-7320
+156,Ashlie , C.,Gavant,ashliec.gavant@uscb.edu,242-241-9706
+157,Lauren,NULL,Gellar,laurengellar@uscb.edu,925-497-5261
+158,Ian , B.,Gibson,ianb.gibson@uscb.edu,989-405-7311
+159,Suzanne , L.,Gibson,suzannel.gibson@uscb.edu,260-188-1404
+160,Diana,NULL,Gill,dianagill@uscb.edu,190-541-7332
+161,Shantanique , K.,Givens-Franklin,shantaniquek.givens-franklin@uscb.edu,260-456-5290
+162,Tavis , J.,Glassman,tavisj.glassman@uscb.edu,378-360-5231
+163,Mary , C.,Glasson,maryc.glasson@uscb.edu,716-369-7053
+164,James , P.,Glasson,jamesp.glasson@uscb.edu,761-760-5877
+165,Brian , N.,Glaze,briann.glaze@uscb.edu,785-439-6183
+166,Katie , L.,Godowns,katiel.godowns@uscb.edu,141-236-5952
+167,Sheilia , R.,Goodwin,sheiliar.goodwin@uscb.edu,108-124-9201
+168,Michelle , S.,Gordon,michelles.gordon@uscb.edu,577-871-3852
+169,James , M.,Griesse,jamesm.griesse@uscb.edu,528-585-5806
+170,Courtney , H.,Grile,courtneyh.grile@uscb.edu,105-648-8696
+171,Cortney , S.,Grubbs,cortneys.grubbs@uscb.edu,476-130-1296
+172,Christa , J.,Guicherit,christaj.guicherit@uscb.edu,314-183-7754
+173,Nicholas , A.,Guittar,nicholasa.guittar@uscb.edu,403-476-4352
+174,Andrew , J.,Gummow,andrewj.gummow@uscb.edu,584-847-5679
+175,Atul , M.,Gupta,atulm.gupta@uscb.edu,397-760-8781
+176,Giuliana,NULL,Gusmaroli,giulianagusmaroli@uscb.edu,610-437-0356
+177,Samantha , J.,Haering,samanthaj.haering@uscb.edu,386-906-5035
+178,Lee-Ann,NULL,Halbert,lee-annhalbert@uscb.edu,511-642-3999
+179,Kristen , N.,Hall,kristenn.hall@uscb.edu,523-942-1696
+180,Susan , W.,Hall,susanw.hall@uscb.edu,728-258-8247
+181,Tressa,NULL,Hall,tressahall@uscb.edu,546-900-9070
+182,Chad , O.,Hamilton,chado.hamilton@uscb.edu,675-445-3000
+183,Ashley , L.,Hamm,ashleyl.hamm@uscb.edu,299-466-3218
+184,Elizabeth ,  .,Hammond,elizabeth.hammond@uscb.edu,594-806-3405
+185,Courtney , E.,Hampson,courtneye.hampson@uscb.edu,706-998-9775
+186,Robert , W.,Harris,robertw.harris@uscb.edu,853-469-6911
+187,Jay,NULL,Harris,jayharris@uscb.edu,157-219-2985
+188,Colleen,NULL,Harris,colleenharris@uscb.edu,544-863-8494
+189,Christopher,NULL,Harrison,christopherharrison@uscb.edu,536-111-7444
+190,Barbara , L.,Hart,barbaral.hart@uscb.edu,403-798-1024
+191,Kyra , L.,Hartley,kyral.hartley@uscb.edu,814-916-2344
+192,Heather , G.,Haskell,heatherg.haskell@uscb.edu,611-522-0450
+193,Edward , L.,Heberling,edwardl.heberling@uscb.edu,234-815-5920
+194,Richard , A.,Heiens,richarda.heiens@uscb.edu,821-767-3498
+195,Matthew,NULL,Heightland,matthewheightland@uscb.edu,564-702-3431
+196,James , M.,Hennigan,jamesm.hennigan@uscb.edu,250-175-4492
+197,William,NULL,Henshaw,williamhenshaw@uscb.edu,599-938-4796
+198,Thomas,NULL,Henz,thomashenz@uscb.edu,460-416-7108
+199,Susana,NULL,Hernandez,susanahernandez@uscb.edu,474-774-7427
+200,Pamela , C.,Hoel,pamelac.hoel@uscb.edu,418-717-2856
+201,Lauren , N.,Hoffer,laurenn.hoffer@uscb.edu,815-384-0334
+202,Timothy , J.,Hogenboom,timothyj.hogenboom@uscb.edu,336-281-3537
+203,Karen , A.,Holderfield,karena.holderfield@uscb.edu,479-596-3682
+204,Alice , R.,Holland,alicer.holland@uscb.edu,821-165-4550
+205,Gregory , P.,Hollis,gregoryp.hollis@uscb.edu,758-492-3992
+206,Gloria , G.,Holmes,gloriag.holmes@uscb.edu,616-193-2619
+207,Stacey,NULL,Holmes,staceyholmes@uscb.edu,274-605-9498
+208,Jan , R.,Holt,janr.holt@uscb.edu,293-632-5964
+209,Richard , J.,Horner,richardj.horner@uscb.edu,939-359-4932
+210,David , R.,Howell,davidr.howell@uscb.edu,864-616-5606
+211,Kathryn , I.,Hoy,kathryni.hoy@uscb.edu,378-588-7165
+212,Nancy , M.,Hritz,nancym.hritz@uscb.edu,908-228-6194
+213,Robert , C.,Huemme,robertc.huemme@uscb.edu,309-671-8675
+214,Amy,NULL,Huggins,amyhuggins@uscb.edu,190-255-2205
+215,Sarah , D.,Hull,sarahd.hull@uscb.edu,298-640-1676
+216,Melodie , A.,Hunnicutt,melodiea.hunnicutt@uscb.edu,576-894-2138
+217,Lynne , M.,Hutchison,lynnem.hutchison@uscb.edu,428-159-9635
+218,Satin,NULL,Ibrahim,satinibrahim@uscb.edu,622-961-7168
+219,Jose , Luis C.,Iglesias,joseluis c.iglesias@uscb.edu,323-599-6195
+220,Joel , R.,Iliff,joelr.iliff@uscb.edu,429-786-9313
+221,Andrew,NULL,Indelicato,andrewindelicato@uscb.edu,282-635-1602
+222,Carole , T.,Ingram,carolet.ingram@uscb.edu,946-703-8193
+223,Akira,NULL,Iwasa,akiraiwasa@uscb.edu,920-719-6316
+224,Melissa,NULL,Jacobs,melissajacobs@uscb.edu,609-350-7490
+225,Timothy , M.,James,timothym.james@uscb.edu,802-589-6872
+226,Mary , A.,Jarmulowicz,marya.jarmulowicz@uscb.edu,159-310-2466
+227,Yiming,NULL,Ji,yimingji@uscb.edu,721-432-6973
+228,Michael , P.,Johns,michaelp.johns@uscb.edu,500-891-5674
+229,Joleesa , A.,Johnson,joleesaa.johnson@uscb.edu,717-277-9280
+230,Deleon,NULL,Johnson,deleonjohnson@uscb.edu,370-632-4812
+231,Emily , S.,Johnson,emilys.johnson@uscb.edu,229-705-0906
+232,Elizabeth , L.,Johnson,elizabethl.johnson@uscb.edu,942-134-0284
+233,Jeffrey,NULL,Jones,jeffreyjones@uscb.edu,371-232-5592
+234,Amalia , C.,Jones,amaliac.jones@uscb.edu,580-103-2661
+235,Morgin,NULL,Jones Williams,morginjones williams@uscb.edu,296-355-3193
+236,Rose,NULL,Kearney-Nunnery,rosekearney-nunnery@uscb.edu,717-580-3689
+237,Kim , L.,Keats,kiml.keats@uscb.edu,830-371-2002
+238,Charles , H.,Keith,charlesh.keith@uscb.edu,656-676-3797
+239,Timothy , W.,Keller,timothyw.keller@uscb.edu,204-385-6685
+240,Robert , E.,Kilgore,roberte.kilgore@uscb.edu,562-739-7119
+241,Kimberly,NULL,King,kimberlyking@uscb.edu,979-550-6624
+242,Matthew , L.,King,matthewl.king@uscb.edu,913-547-4311
+243,Sean,NULL,Kingsbury,seankingsbury@uscb.edu,178-649-7672
+244,Laura , A.,Kirkpatrick,lauraa.kirkpatrick@uscb.edu,407-488-2917
+245,Sandra , K.,Knapp,sandrak.knapp@uscb.edu,304-603-6174
+246,Brian,NULL,Knop,brianknop@uscb.edu,163-295-1011
+247,Jodi , L.,Knorr,jodil.knorr@uscb.edu,927-210-8307
+248,Maria , G.,Kramer,mariag.kramer@uscb.edu,838-263-3142
+249,Rena , L.,Kratky,renal.kratky@uscb.edu,462-955-6918
+250,Salome , L.,Krebs,salomel.krebs@uscb.edu,142-216-7816
+251,Emily , Y.,Kristoff,emilyy.kristoff@uscb.edu,170-949-5185
+252,Joanne,NULL,Kuehn,joannekuehn@uscb.edu,878-978-9273
+253,Amy , C.,Kunkle,amyc.kunkle@uscb.edu,520-933-7537
+254,Cindy , J.,Lahar,cindyj.lahar@uscb.edu,416-475-5646
+255,Jane , L.,Lambert,janel.lambert@uscb.edu,885-781-0655
+256,Randolph,NULL,Lamkin,randolphlamkin@uscb.edu,846-298-8665
+257,Holli , L.,Lancaster,hollil.lancaster@uscb.edu,420-443-6324
+258,Reilly,NULL,Lancaster,reillylancaster@uscb.edu,406-858-3545
+259,Robert , H.,Landrum,roberth.landrum@uscb.edu,950-128-5470
+260,Jayln , A.,Lawrence,jaylna.lawrence@uscb.edu,212-246-2128
+261,Alayne , F.,Lawson,alaynef.lawson@uscb.edu,889-204-7725
+262,John , J.,Leadem,johnj.leadem@uscb.edu,965-318-8643
+263,Amy , E.,Leaphart,amye.leaphart@uscb.edu,249-665-0528
+264,Linnea,NULL,Lee,linnealee@uscb.edu,508-320-5390
+265,Robert , G.,Lefavi,robertg.lefavi@uscb.edu,755-411-5559
+266,Xuwei,NULL,Liang,xuweiliang@uscb.edu,663-962-6652
+267,Carol , A.,Liff,carola.liff@uscb.edu,483-491-6375
+268,Wayne , R.,Lilley,wayner.lilley@uscb.edu,887-818-5767
+269,Joshua , C.,Lockhart,joshuac.lockhart@uscb.edu,980-853-5326
+270,Deborah , L.,Logan,deborahl.logan@uscb.edu,810-486-3207
+271,Lindsey , N.,Logue,lindseyn.logue@uscb.edu,338-725-3951
+272,Barry , O.,Long,barryo.long@uscb.edu,141-475-1685
+273,Sherry,NULL,Lott,sherrylott@uscb.edu,374-412-4556
+274,Robert , A.,Lott,roberta.lott@uscb.edu,645-489-7984
+275,Diana , L.,Lotz,dianal.lotz@uscb.edu,661-855-0913
+276,Christopher , B.,Love,christopherb.love@uscb.edu,601-508-2282
+277,Michael,NULL,Lovecchio,michaellovecchio@uscb.edu,669-281-2655
+278,Laurie , L.,Lovell,lauriel.lovell@uscb.edu,951-376-0964
+279,Jessica , M.,Lowther,jessicam.lowther@uscb.edu,480-239-4587
+280,Sarah , N.,Lucas,sarahn.lucas@uscb.edu,900-439-2358
+281,John , H.,Lundin,johnh.lundin@uscb.edu,702-753-6078
+282,Gregory , M.,Macdonell,gregorym.macdonell@uscb.edu,757-771-4569
+283,Julia , E.,Macfarland,juliae.macfarland@uscb.edu,770-457-5024
+284,Ahron , J.,Mack,ahronj.mack@uscb.edu,104-816-8453
+285,Kathryn , R.,Madden,kathrynr.madden@uscb.edu,861-604-1120
+286,P. , Ellen,Malphrus,p.ellenmalphrus@uscb.edu,363-886-6710
+287,Renee,NULL,Mann,reneemann@uscb.edu,367-712-4957
+288,Jalen , M.,Manor,jalenm.manor@uscb.edu,227-215-3999
+289,Christopher,NULL,Maraffi,christophermaraffi@uscb.edu,618-132-8797
+290,Bruce , A.,Marlowe,brucea.marlowe@uscb.edu,784-556-1414
+291,"Iii, ", John Q.,Marshall,"iii,john q.marshall@uscb.edu",695-218-7380
+292,Vicki , A.,Martin,vickia.martin@uscb.edu,414-655-8794
+293,Agata,NULL,Marzec,agatamarzec@uscb.edu,302-141-4266
+294,Alison , M.,Mathe,alisonm.mathe@uscb.edu,141-310-2982
+295,Mary , K.,Maxwell,maryk.maxwell@uscb.edu,929-583-3850
+296,Jill , M.,McAden,jillm.mcaden@uscb.edu,260-664-2433
+297,Stephanie,NULL,McCallister,stephaniemccallister@uscb.edu,517-919-7579
+298,Kelly , L.,McCombs,kellyl.mccombs@uscb.edu,812-520-9561
+299,Erin,NULL,McCoy,erinmccoy@uscb.edu,834-942-6339
+300,Gary , S.,McCulloch,garys.mcculloch@uscb.edu,494-900-5479
+301,Lynn , W.,McGee,lynnw.mcgee@uscb.edu,235-466-8380
+302,Martha , L.,McIlveene,marthal.mcilveene@uscb.edu,771-435-1595
+303,Melissa,NULL,McNulty,melissamcnulty@uscb.edu,498-315-8498
+304,Jeffrey , P.,McQuillen,jeffreyp.mcquillen@uscb.edu,151-965-6092
+305,Anna , T.,Meriwether,annat.meriwether@uscb.edu,864-916-0461
+306,Deborah , P.,Merwin,deborahp.merwin@uscb.edu,222-647-6576
+307,Kyle , J.,Messick,kylej.messick@uscb.edu,181-848-0123
+308,John , A.,Mills,johna.mills@uscb.edu,824-157-3336
+309,Rhonda,NULL,Mincey,rhondamincey@uscb.edu,350-546-3696
+310,Quin , T.,Monahan,quint.monahan@uscb.edu,301-260-4036
+311,Eric , W.,Montie,ericw.montie@uscb.edu,292-339-1658
+312,Peter , D.,Moore,peterd.moore@uscb.edu,918-352-6331
+313,Kasie,NULL,Moore,kasiemoore@uscb.edu,432-963-1948
+314,Daniel , R.,Morgan,danielr.morgan@uscb.edu,344-714-9982
+315,Carly , F.,Morman,carlyf.morman@uscb.edu,580-251-0106
+316,Joseph , B.,Morris,josephb.morris@uscb.edu,352-503-8851
+317,Stuart , A.,Morris,stuarta.morris@uscb.edu,471-887-6427
+318,Lori , A.,Munaco,loria.munaco@uscb.edu,383-629-8162
+319,Peter , J.,Mundey,peterj.mundey@uscb.edu,157-770-4147
+320,Gwen , D.,Myers,gwend.myers@uscb.edu,682-838-9975
+321,Angela , L.,Nadeau,angelal.nadeau@uscb.edu,624-910-7325
+322,Stefanie , M.,Nagid,stefaniem.nagid@uscb.edu,178-501-0636
+323,Barbara , A.,Nash,barbaraa.nash@uscb.edu,180-604-3139
+324,Benjamin , J.,Nelson,benjaminj.nelson@uscb.edu,293-328-0109
+325,Megan ,  .,Newton,megan.newton@uscb.edu,214-509-2788
+326,Sarah , E.,Norton,sarahe.norton@uscb.edu,279-778-3364
+327,Teagan , A.,O'Connor,teagana.o'connor@uscb.edu,116-629-5905
+328,Kerri , A.,Olivetti,kerria.olivetti@uscb.edu,862-126-5560
+329,Karen , E.,Olsson,karene.olsson@uscb.edu,857-908-3168
+330,Lynne , L.,Ornes,lynnel.ornes@uscb.edu,868-687-9325
+331,Richard , J.,Osbaldiston,richardj.osbaldiston@uscb.edu,788-810-8334
+332,Sarah,NULL,Owen,sarahowen@uscb.edu,987-375-4582
+333,Kirsten , P.,Palmer,kirstenp.palmer@uscb.edu,148-678-7813
+334,Thomas , C.,Parker,thomasc.parker@uscb.edu,645-193-4538
+335,Jon , P.,Parks,jonp.parks@uscb.edu,228-142-0271
+336,George , J.,Pate,georgej.pate@uscb.edu,292-441-5370
+337,Kasia , A.,Pawelek,kasiaa.pawelek@uscb.edu,262-615-6899
+338,Lukasz , D.,Pawelek,lukaszd.pawelek@uscb.edu,577-429-4892
+339,Mary , R.,Peek,maryr.peek@uscb.edu,657-938-8377
+340,James,NULL,Pelletier,jamespelletier@uscb.edu,173-306-0534
+341,Chad , R.,Penner,chadr.penner@uscb.edu,947-505-3221
+342,Karey,NULL,Perkins,kareyperkins@uscb.edu,115-762-0600
+343,Harry , C.,Perry,harryc.perry@uscb.edu,582-627-9418
+344,Joan , M.,Petrucci,joanm.petrucci@uscb.edu,182-534-1876
+345,Daniel , T.,Pettay,danielt.pettay@uscb.edu,360-359-3751
+346,Stacee , N.,Phillips,staceen.phillips@uscb.edu,247-576-1595
+347,Pamela , A.,Phillips,pamelaa.phillips@uscb.edu,478-555-5815
+348,Piyaphol,NULL,Phoungphol,piyapholphoungphol@uscb.edu,327-988-8533
+349,Chelsea , M.,Ponce,chelseam.ponce@uscb.edu,509-748-7374
+350,Anna , K.,Ponder,annak.ponder@uscb.edu,857-840-3874
+351,Daphne , M.,Poore,daphnem.poore@uscb.edu,250-376-7029
+352,Alyssa , B.,Powell,alyssab.powell@uscb.edu,552-633-1341
+353,Virginia , G.,Pratt,virginiag.pratt@uscb.edu,657-652-3695
+354,Kelly,NULL,Prestby,kellyprestby@uscb.edu,885-446-2541
+355,Jenna,NULL,Prokopovich,jennaprokopovich@uscb.edu,198-774-6173
+356,Anna , C.,Ptacin,annac.ptacin@uscb.edu,928-806-2407
+357,Timothy , J.,Quickmire,timothyj.quickmire@uscb.edu,609-919-1174
+358,Jessica , A.,Raley,jessicaa.raley@uscb.edu,223-348-9484
+359,Rebecca , A.,Randazzo,rebeccaa.randazzo@uscb.edu,728-349-3405
+360,Nancy , L.,Reading,nancyl.reading@uscb.edu,830-160-4975
+361,Richard , P.,Reed,richardp.reed@uscb.edu,707-487-7106
+362,Melody , D.,Reibel,melodyd.reibel@uscb.edu,892-450-2221
+363,Alison , A.,Reynolds,alisona.reynolds@uscb.edu,217-759-1166
+364,Elizabeth,NULL,Ricardo,elizabethricardo@uscb.edu,289-646-0497
+365,Kimberly , B.,Ritchie,kimberlyb.ritchie@uscb.edu,462-558-3005
+366,Mary , C.,Rizzi,maryc.rizzi@uscb.edu,777-431-7601
+367,Maryanne , V.,Rizzi,maryannev.rizzi@uscb.edu,383-174-3549
+368,Summer , C.,Roberts,summerc.roberts@uscb.edu,573-147-6419
+369,Alyssa,NULL,Robertson,alyssarobertson@uscb.edu,905-388-9586
+370,Dawn , M.,Robinson,dawnm.robinson@uscb.edu,543-223-5461
+371,Christopher , A.,Robinson,christophera.robinson@uscb.edu,656-396-7006
+372,Leigha , M.,Robinson,leigham.robinson@uscb.edu,746-258-8148
+373,Christopher , T.,Robinson,christophert.robinson@uscb.edu,310-979-1691
+374,Thomas , R.,Rochon,thomasr.rochon@uscb.edu,667-113-9694
+375,Stephen , E.,Rogers,stephene.rogers@uscb.edu,901-992-9751
+376,Ida , T.,Ronaszegi,idat.ronaszegi@uscb.edu,228-500-6676
+377,Susan , J.,Roos,susanj.roos@uscb.edu,757-744-3776
+378,Tameka , N.,Rose,tamekan.rose@uscb.edu,862-385-5178
+379,Shannan,NULL,Rosenthal,shannanrosenthal@uscb.edu,521-115-7679
+380,John , B.,Ross,johnb.ross@uscb.edu,287-876-3615
+381,Jacqueline , M.,Rosswurm,jacquelinem.rosswurm@uscb.edu,172-366-4123
+382,Lauren , M.,Rotella,laurenm.rotella@uscb.edu,421-470-6010
+383,Theresa , N.,Rough,theresan.rough@uscb.edu,911-537-0047
+384,Catherine , F.,Runyan,catherinef.runyan@uscb.edu,442-582-8470
+385,Nadine,NULL,Russell,nadinerussell@uscb.edu,798-906-4485
+386,Pia,NULL,Ryan,piaryan@uscb.edu,363-843-7690
+387,Laura , F.,Rychalsky,lauraf.rychalsky@uscb.edu,334-796-1383
+388,Tabitha , L.,Safdi,tabithal.safdi@uscb.edu,278-262-3894
+389,John , P.,Salazar,johnp.salazar@uscb.edu,357-105-1998
+390,Laurel , A.,Sams,laurela.sams@uscb.edu,670-703-1643
+391,Alexander , R.,Sanchez,alexanderr.sanchez@uscb.edu,704-298-3559
+392,Manuel , J.,Sanders,manuelj.sanders@uscb.edu,707-315-7575
+393,Julie,NULL,Satterfield-Price,juliesatterfield-price@uscb.edu,949-153-9060
+394,Laurie , A.,Savidge,lauriea.savidge@uscb.edu,353-714-6783
+395,Caroline,NULL,Sawyer,carolinesawyer@uscb.edu,729-165-9203
+396,Julia , B.,Sayre,juliab.sayre@uscb.edu,901-142-2344
+397,Stephen , R.,Schutz,stephenr.schutz@uscb.edu,356-999-2373
+398,Michelene , R.,Seabrook,michelener.seabrook@uscb.edu,647-692-6617
+399,Elizabeth,NULL,Serieux,elizabethserieux@uscb.edu,398-316-5590
+400,Volkan,NULL,Sevim,volkansevim@uscb.edu,706-616-9584
+401,Judith , M.,Shaffer,judithm.shaffer@uscb.edu,822-651-1162
+402,Heather,NULL,Shay,heathershay@uscb.edu,727-287-6973
+403,Justin,NULL,Shelley,justinshelley@uscb.edu,133-875-1047
+404,James , M.,Shinn,jamesm.shinn@uscb.edu,123-820-3625
+405,Cheryl , R.,Shookman,cherylr.shookman@uscb.edu,227-125-5626
+406,Ashley , R.,Shroyer,ashleyr.shroyer@uscb.edu,314-255-7007
+407,James,NULL,Sidletsky,jamessidletsky@uscb.edu,134-852-9413
+408,Angela , D.,Simmons,angelad.simmons@uscb.edu,106-953-5780
+409,Paul , G.,Simon,paulg.simon@uscb.edu,879-922-4504
+410,Juanita,NULL,Singleton-Murray,juanitasingleton-murray@uscb.edu,411-811-0001
+411,Andrea , R.,Sisino,andrear.sisino@uscb.edu,375-803-5587
+412,Murray , W.,Skees,murrayw.skees@uscb.edu,549-622-8861
+413,George , E.,Skipper,georgee.skipper@uscb.edu,825-881-7799
+414,Patricia , A.,Slachta,patriciaa.slachta@uscb.edu,760-990-3051
+415,Anna , M.,Smigelski,annam.smigelski@uscb.edu,484-904-4412
+416,Eva , M.,Smith,evam.smith@uscb.edu,927-932-9502
+417,George,NULL,Smith,georgesmith@uscb.edu,318-803-7139
+418,Bradley , A.,Smith,bradleya.smith@uscb.edu,755-465-6954
+419,Emily , L.,Smith,emilyl.smith@uscb.edu,552-287-9842
+420,Morgan , A.,Smith,morgana.smith@uscb.edu,823-842-3871
+421,Joanne , L.,Smith,joannel.smith@uscb.edu,279-197-5597
+422,Catherine,NULL,Snoddy,catherinesnoddy@uscb.edu,182-189-2652
+423,Matthew,NULL,Sobel,matthewsobel@uscb.edu,436-847-1487
+424,Charlene,NULL,Spearen,charlenespearen@uscb.edu,410-250-6678
+425,William , A.,Spetrino,williama.spetrino@uscb.edu,803-570-5137
+426,Charles , L.,Spirrison,charlesl.spirrison@uscb.edu,364-259-9332
+427,Gordon , D.,Sproul,gordond.sproul@uscb.edu,631-782-6364
+428,Joseph , L.,Staton,josephl.staton@uscb.edu,191-178-9617
+429,Daniel,NULL,Strohecker,danielstrohecker@uscb.edu,924-662-7466
+430,Aurel , E.,Stuart,aurele.stuart@uscb.edu,701-887-8384
+431,Kathy , W.,Sturges,kathyw.sturges@uscb.edu,999-648-6311
+432,Cynthia , L.,Sturgis,cynthial.sturgis@uscb.edu,928-702-1673
+433,Amy , M.,Sullivan,amym.sullivan@uscb.edu,317-342-7666
+434,Caroline , A.,Summa,carolinea.summa@uscb.edu,259-109-2300
+435,Gary , A.,Sutton,garya.sutton@uscb.edu,921-944-2024
+436,Sreekumar,NULL,Swamy Asari,sreekumarswamy asari@uscb.edu,894-395-2361
+437,Agnes,NULL,Sweeney,agnessweeney@uscb.edu,682-574-5494
+438,Rose,NULL,Sweetwood,rosesweetwood@uscb.edu,382-904-2247
+439,Tessa , S.,Swehla,tessas.swehla@uscb.edu,312-456-5044
+440,Peter , E.,Swift,petere.swift@uscb.edu,330-989-8759
+441,Sarah , C.,Swofford,sarahc.swofford@uscb.edu,947-543-2878
+442,Carol , A.,Tarr,carola.tarr@uscb.edu,428-442-9504
+443,Ana , C.,Teixeira,anac.teixeira@uscb.edu,439-731-9466
+444,Najmah,NULL,Thomas,najmahthomas@uscb.edu,996-245-9858
+445,Jody , A.,Thompson,jodya.thompson@uscb.edu,374-369-1115
+446,Heather , L.,Thornton,heatherl.thornton@uscb.edu,918-604-6976
+447,William , J.,Thrasher,williamj.thrasher@uscb.edu,508-252-9511
+448,Kimberly,NULL,Todd,kimberlytodd@uscb.edu,623-686-3333
+449,Amanda,NULL,Toler,amandatoler@uscb.edu,240-187-3337
+450,Renarta , H.,Tompkins,renartah.tompkins@uscb.edu,747-530-1451
+451,Abbey , D.,Toot,abbeyd.toot@uscb.edu,520-357-0877
+452,Mary , C.,Trask,maryc.trask@uscb.edu,254-913-9167
+453,Millette , L.,Tucker,millettel.tucker@uscb.edu,934-429-7432
+454,Michael,NULL,Turner,michaelturner@uscb.edu,252-632-0838
+455,Shannon,NULL,Vane,shannonvane@uscb.edu,613-965-0590
+456,Lori , J.,Vargo,lorij.vargo@uscb.edu,563-431-6503
+457,Victor , M.,Varner,victorm.varner@uscb.edu,331-915-2482
+458,Joseph , D.,Vermilyea,josephd.vermilyea@uscb.edu,705-818-3231
+459,Kate , E.,Vermilyea,katee.vermilyea@uscb.edu,426-741-2472
+460,Juanita , I.,Villena-Alvarez,juanitai.villena-alvarez@uscb.edu,663-281-2906
+461,Dominic,NULL,Viola,dominicviola@uscb.edu,506-922-7432
+462,Jayne , L.,Violette,jaynel.violette@uscb.edu,264-599-9019
+463,Christoph , A.,Vogel,christopha.vogel@uscb.edu,780-713-6996
+464,Debra , J.,Wallace,debraj.wallace@uscb.edu,435-479-8070
+465,Cecelia,NULL,Walsh-Russo,ceceliawalsh-russo@uscb.edu,967-852-9132
+466,James , B.,Ward,jamesb.ward@uscb.edu,540-868-4811
+467,David , A.,Warren,davida.warren@uscb.edu,683-657-5149
+468,Nora , K.,Weatherhead,norak.weatherhead@uscb.edu,260-618-4611
+469,Emily , M.,Webb,emilym.webb@uscb.edu,695-103-1718
+470,Jana , L.,Wheeler,janal.wheeler@uscb.edu,874-498-0517
+471,Aubrey,NULL,Whewell,aubreywhewell@uscb.edu,413-657-9418
+472,Susan , C.,Williams,susanc.williams@uscb.edu,206-701-9078
+473,Ellen , H.,Williams,ellenh.williams@uscb.edu,457-101-0809
+474,Linda , B.,Wilson,lindab.wilson@uscb.edu,923-878-5962
+475,Amber , M.,Wing,amberm.wing@uscb.edu,854-731-6326
+476,Stephen,NULL,Wise,stephenwise@uscb.edu,213-576-3002
+477,April , A.,Wolfe,aprila.wolfe@uscb.edu,545-350-9338
+478,Gabriel , L.,Woods,gabriell.woods@uscb.edu,495-199-6308
+479,Brandon , J.,Wright,brandonj.wright@uscb.edu,339-865-0414
+480,Zhao,NULL,Yang,zhaoyang@uscb.edu,316-870-4531
+481,Deonne , G.,Yeager,deonneg.yeager@uscb.edu,138-117-2716
+482,Diane , M.,Yeoman,dianem.yeoman@uscb.edu,525-301-3834
+483,Meagan , C.,Youmans,meaganc.youmans@uscb.edu,970-852-5083
+484,Meagan , R.,Youmans,meaganr.youmans@uscb.edu,606-798-9439
+485,Trisha , M.,Zehrung,trisham.zehrung@uscb.edu,490-190-3543
+486,Xiaomei,NULL,Zhang,xiaomeizhang@uscb.edu,585-608-9788
+487,Chenjie,NULL,Zhang,chenjiezhang@uscb.edu,974-752-6115
+488,Patricia,NULL,Zientek,patriciazientek@uscb.edu,214-106-5248

@@ -1,0 +1,16 @@
+﻿GradeID,Grade,GPA
+1,A,4
+2,B+,3.5
+3,B,3
+4,C +,2.5
+5,C,2
+6,D+,1.5
+7,D,1
+8,F,0
+9,WF,0
+10,W,
+11,I,
+12,Pass,
+13,Fail,0
+14,Pass (Grad),
+15,Fail (Grad),0

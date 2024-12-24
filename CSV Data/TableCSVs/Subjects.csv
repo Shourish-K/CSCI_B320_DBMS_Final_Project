@@ -1,0 +1,67 @@
+SubjectID,SubjectName,SubjectAbbreviation,DepartmentID
+1,Accounting,ACCT,2
+2,African Amer Studies,AFAM,7
+3,Anthropology,ANTH,7
+4,Art Education,ARTE,5
+5,Art History,ARTH,5
+6,Art Studio,ARTS,5
+7,Astronomy,ASTR,12
+8,Business Administration,BADM,2
+9,Biology,BIOL,12
+10,Chemistry,CHEM,12
+11,Communications,COMM,2
+12,Comparative Literature,CPLT,5
+13,Computer Science,CSCI,8
+14,Computational Engr,CSXE,3
+15,Economics,ECON,2
+16,"Curriculum, Instruction",EDCI,4
+17,Early Childhood Educ,EDEC,4
+18,Elementary Education,EDEL,4
+19,Exceptional Children,EDEX,4
+20,Educ - Foundations,EDFO,4
+21,Mathematics Education,EDME,4
+22,Physical Education,EDPH,4
+23,Educational Psychology,EDPY,4
+24,Reading,EDRD,4
+25,Research & Measurement,EDRM,4
+26,English,ENGL,5
+27,Engineering,ENGR,3
+28,Entrepreneurship,ENTR,6
+29,French,FREN,7
+30,Geography,GEOG,7
+31,German,GERM,7
+32,Global Studies,GLST,7
+33,History,HIST,7
+34,Human Services,HMSV,11
+35,Health Programs,HPRO,1
+36,Hotel Rest Tourism Mgmt,HRTM,6
+37,Interdisciplnry Studies,IDST,5
+38,Intl Study Abroad,INTL,1
+39,Info Science & Tech,ISAT,8
+40,Language Studies,LANG,7
+41,Liberal Studies,LBST,1
+42,Linguistics,LING,7
+43,Media Arts,MART,5
+44,Mathematics,MATH,8
+45,Mathematics,MATH,9
+46,Management,MGMT,2
+47,Management Science,MGSC,2
+48,Marketing,MKTG,2
+49,Marine Science,MSCI,12
+50,Music,MUSC,5
+51,Nursing,NURS,10
+52,Physical Education,PEDU,11
+53,Philosophy,PHIL,7
+54,Physics,PHYS,12
+55,Political Science,POLI,7
+56,Psychology,PSYC,7
+57,Public Health,PUBH,11
+58,Religious Studies,RELG,7
+59,Sociology,SOCY,7
+60,Spanish,SPAN,7
+61,Sport Management,SPRT,6
+62,Statistics,STAT,8
+63,Statistics,STAT,9
+64,Theatre,THEA,5
+65,University Experience,UNIV,7
+66,SC Pseudo Course (USC),USC ,1

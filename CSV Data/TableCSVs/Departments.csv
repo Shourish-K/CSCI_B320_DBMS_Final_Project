@@ -1,0 +1,13 @@
+DepartmentID,DepartmentAbbreviation,DepartmentName,CollegeID
+1,,,2
+2,2BUC,USC-B Business & Comm,2
+3,2CSC,USC-B Computer Science,2
+4,2EDU,USC-B Education,2
+5,2EVA,USC-B English & Visual Arts,2
+6,2HSM,USC-B Hospitality Management,2
+7,2HSS,USC-B Humanities & Social Sci,2
+8,2MCS,USC-B Math & Comp Sci,2
+9,2MTH,USC-B Mathematics,2
+10,2NUR,USC-B Nursing,2
+11,2PHH,USC-B Public Hlth & Human Serv,2
+12,2SMT,USC-B Natural Sciences,2

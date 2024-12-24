@@ -1,0 +1,85 @@
+CourseID,TermType,Semester,Year,TermStartDate,TermEndDate
+1,Beaufort First Half Term,Fall,2015,2015-08-24,2015-12-16
+2,Beaufort Full Term,Fall,2015,2015-08-24,2015-12-16
+3,Beaufort Second Half Term,Fall,2015,2015-08-24,2015-12-16
+4,Beaufort First Half Term,Spring,2016,2016-01-08,2016-04-22
+5,Beaufort Full Term,Spring,2016,2016-01-08,2016-04-22
+6,Beaufort Second Half Term,Spring,2016,2016-01-08,2016-04-22
+7,Beaufort Summer 1st Half Term,Summer,2016,2016-05-08,2016-05-25
+8,Beaufort Summer 2nd Half Term,Summer,2016,2016-05-08,2016-05-25
+9,Beaufort Summer Full Term,Summer,2016,2016-05-08,2016-05-25
+10,Beaufort Summer May Term,Summer,2016,2016-05-08,2016-05-25
+11,Beaufort First Half Term,Fall,2016,2016-08-24,2016-12-16
+12,Beaufort Full Term,Fall,2016,2016-08-24,2016-12-16
+13,Beaufort Second Half Term,Fall,2016,2016-08-24,2016-12-16
+14,Beaufort First Half Term,Spring,2017,2017-01-08,2017-04-22
+15,Beaufort Full Term,Spring,2017,2017-01-08,2017-04-22
+16,Beaufort Second Half Term,Spring,2017,2017-01-08,2017-04-22
+17,Beaufort Summer 1st Half Term,Summer,2017,2017-05-08,2017-05-25
+18,Beaufort Summer 2nd Half Term,Summer,2017,2017-05-08,2017-05-25
+19,Beaufort Summer Full Term,Summer,2017,2017-05-08,2017-05-25
+20,Beaufort Summer May Term,Summer,2017,2017-05-08,2017-05-25
+21,Beaufort First Half Term,Fall,2017,2017-08-24,2017-12-16
+22,Beaufort Full Term,Fall,2017,2017-08-24,2017-12-16
+23,Beaufort Second Half Term,Fall,2017,2017-08-24,2017-12-16
+24,Beaufort First Half Term,Spring,2018,2018-01-08,2018-04-22
+25,Beaufort Full Term,Spring,2018,2018-01-08,2018-04-22
+26,Beaufort Second Half Term,Spring,2018,2018-01-08,2018-04-22
+27,Beaufort Summer 1st Half Term,Summer,2018,2018-05-08,2018-05-25
+28,Beaufort Summer 2nd Half Term,Summer,2018,2018-05-08,2018-05-25
+29,Beaufort Summer Full Term,Summer,2018,2018-05-08,2018-05-25
+30,Beaufort Summer May Term,Summer,2018,2018-05-08,2018-05-25
+31,Beaufort First Half Term,Fall,2018,2018-08-24,2018-12-16
+32,Beaufort Full Term,Fall,2018,2018-08-24,2018-12-16
+33,Beaufort Second Half Term,Fall,2018,2018-08-24,2018-12-16
+34,Beaufort First Half Term,Spring,2019,2019-01-08,2019-04-22
+35,Beaufort Full Term,Spring,2019,2019-01-08,2019-04-22
+36,Beaufort Second Half Term,Spring,2019,2019-01-08,2019-04-22
+37,Beaufort Summer 1st Half Term,Summer,2019,2019-05-08,2019-05-25
+38,Beaufort Summer 2nd Half Term,Summer,2019,2019-05-08,2019-05-25
+39,Beaufort Summer Full Term,Summer,2019,2019-05-08,2019-05-25
+40,Beaufort Summer May Term,Summer,2019,2019-05-08,2019-05-25
+41,Beaufort First Half Term,Fall,2019,2019-08-24,2019-12-16
+42,Beaufort Full Term,Fall,2019,2019-08-24,2019-12-16
+43,Beaufort Second Half Term,Fall,2019,2019-08-24,2019-12-16
+44,Beaufort First Half Term,Spring,2020,2020-01-08,2020-04-22
+45,Beaufort Full Term,Spring,2020,2020-01-08,2020-04-22
+46,Beaufort Second Half Term,Spring,2020,2020-01-08,2020-04-22
+47,Beaufort Summer 1st Half Term,Summer,2020,2020-05-08,2020-05-25
+48,Beaufort Summer 2nd Half Term,Summer,2020,2020-05-08,2020-05-25
+49,Beaufort Summer Full Term,Summer,2020,2020-05-08,2020-05-25
+50,Beaufort Summer May Term,Summer,2020,2020-05-08,2020-05-25
+51,Beaufort First Half Term,Fall,2020,2020-08-24,2020-12-16
+52,Beaufort Full Term,Fall,2020,2020-08-24,2020-12-16
+53,Beaufort Second Half Term,Fall,2020,2020-08-24,2020-12-16
+54,Beaufort First Half Term,Spring,2021,2021-01-08,2021-04-22
+55,Beaufort Full Term,Spring,2021,2021-01-08,2021-04-22
+56,Beaufort Second Half Term,Spring,2021,2021-01-08,2021-04-22
+57,Beaufort Summer 1st Half Term,Summer,2021,2021-05-08,2021-05-25
+58,Beaufort Summer 2nd Half Term,Summer,2021,2021-05-08,2021-05-25
+59,Beaufort Summer Full Term,Summer,2021,2021-05-08,2021-05-25
+60,Beaufort Summer May Term,Summer,2021,2021-05-08,2021-05-25
+61,Beaufort First Half Term,Fall,2021,2021-08-24,2021-12-16
+62,Beaufort Full Term,Fall,2021,2021-08-24,2021-12-16
+63,Beaufort Second Half Term,Fall,2021,2021-08-24,2021-12-16
+64,Columbia Full Term,Fall,2021,2021-08-24,2021-12-16
+65,Beaufort First Half Term,Spring,2022,2022-01-08,2022-04-22
+66,Beaufort Full Term,Spring,2022,2022-01-08,2022-04-22
+67,Beaufort Second Half Term,Spring,2022,2022-01-08,2022-04-22
+68,Beaufort Summer 1st Half Term,Summer,2022,2022-05-08,2022-05-25
+69,Beaufort Summer 2nd Half Term,Summer,2022,2022-05-08,2022-05-25
+70,Beaufort Summer Full Term,Summer,2022,2022-05-08,2022-05-25
+71,Beaufort Summer May Term,Summer,2022,2022-05-08,2022-05-25
+72,Beaufort First Half Term,Fall,2022,2022-08-24,2022-12-16
+73,Beaufort Full Term,Fall,2022,2022-08-24,2022-12-16
+74,Beaufort Second Half Term,Fall,2022,2022-08-24,2022-12-16
+75,Beaufort First Half Term,Spring,2023,2023-01-08,2023-04-22
+76,Beaufort Full Term,Spring,2023,2023-01-08,2023-04-22
+77,Beaufort Second Half Term,Spring,2023,2023-01-08,2023-04-22
+78,Beaufort Summer 1st Half Term,Summer,2023,2023-05-08,2023-05-25
+79,Beaufort Summer 2nd Half Term,Summer,2023,2023-05-08,2023-05-25
+80,Beaufort Summer Full Term,Summer,2023,2023-05-08,2023-05-25
+81,Beaufort Summer May Term,Summer,2023,2023-05-08,2023-05-25
+82,Beaufort First Half Term,Fall,2023,2023-08-24,2023-12-16
+83,Beaufort Full Term,Fall,2023,2023-08-24,2023-12-16
+84,Beaufort Second Half Term,Fall,2023,2023-08-24,2023-12-16
